@@ -1,1 +1,1 @@
-# SPG_Proiect
+# Extruderea unui obiect de-a lungul unei curbe parametrice
